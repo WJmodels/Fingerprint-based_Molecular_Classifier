@@ -1,0 +1,2380 @@
+Fold 0
+Model 0 best validation auc = 0.929451 on epoch 4
+Model 0 test auc = 0.936882
+Ensemble test auc = 0.936882
+Overall dmpnn test auc = 0.936882 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978910 +/- 0.000000
+Overall morgen_test auc = 0.981049 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.983546 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.929451 on epoch 4
+Model 0 test auc = 0.936882
+Ensemble test auc = 0.936882
+Fold 1
+Model 0 best validation auc = 0.929451 on epoch 4
+Model 0 test auc = 0.936882
+Ensemble test auc = 0.936882
+Fold 2
+Model 0 best validation auc = 0.929451 on epoch 4
+Model 0 test auc = 0.936882
+Ensemble test auc = 0.936882
+Fold 3
+Model 0 best validation auc = 0.929451 on epoch 4
+Model 0 test auc = 0.936882
+Ensemble test auc = 0.936882
+Fold 4
+Model 0 best validation auc = 0.929451 on epoch 4
+Model 0 test auc = 0.936882
+Ensemble test auc = 0.936882
+Overall dmpnn test auc = 0.936882 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978910 +/- 0.000000
+Overall morgen_test auc = 0.981049 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.983546 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Fold 1
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Fold 2
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Fold 3
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Fold 4
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Overall dmpnn test auc = 0.849822 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.962252 +/- 0.000000
+Overall morgen_test auc = 0.968161 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.968416 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.798458 on epoch 0
+Model 0 test auc = 0.809314
+Ensemble test auc = 0.809314
+Fold 1
+Model 0 best validation auc = 0.798458 on epoch 0
+Model 0 test auc = 0.809314
+Ensemble test auc = 0.809314
+Fold 2
+Model 0 best validation auc = 0.798458 on epoch 0
+Model 0 test auc = 0.809314
+Ensemble test auc = 0.809314
+Fold 3
+Model 0 best validation auc = 0.798458 on epoch 0
+Model 0 test auc = 0.809314
+Ensemble test auc = 0.809314
+Fold 4
+Model 0 best validation auc = 0.798458 on epoch 0
+Model 0 test auc = 0.809314
+Ensemble test auc = 0.809314
+Overall dmpnn test auc = 0.809314 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.940509 +/- 0.000000
+Overall morgen_test auc = 0.956066 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.955863 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Fold 1
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Overall dmpnn test auc = 0.849822 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.962252 +/- 0.000000
+Overall morgen_test auc = 0.968161 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.968416 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Overall dmpnn test auc = 0.849822 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.962252 +/- 0.000000
+Overall morgen_test auc = 0.968161 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.968416 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Overall dmpnn test auc = 0.849822 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.962252 +/- 0.000000
+Overall morgen_test auc = 0.968161 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.968416 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.953149 on epoch 28
+Model 0 test auc = 0.958074
+Ensemble test auc = 0.958074
+Overall dmpnn test auc = 0.958074 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.960774 +/- 0.000000
+Overall morgen_test auc = 0.968161 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.960927 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Fold 1
+Model 0 best validation auc = 0.826388 on epoch 0
+Model 0 test auc = 0.825509
+Ensemble test auc = 0.825509
+Overall dmpnn test auc = 0.837665 +/- 0.012157
+Overall dmpnn_xgb_test auc = 0.967488 +/- 0.005236
+Overall morgen_test auc = 0.972780 +/- 0.004619
+Overall dmpnn_morgen_test auc = 0.971983 +/- 0.003567
+Fold 0
+Model 0 best validation auc = 0.961598 on epoch 45
+Model 0 test auc = 0.958023
+Ensemble test auc = 0.958023
+Overall dmpnn test auc = 0.958023 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.965970 +/- 0.000000
+Overall morgen_test auc = 0.968161 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.964595 +/- 0.000000
+Fold 0
+Fold 0
+Model 0 best validation auc = 0.809575 on epoch 0
+Model 0 test auc = 0.849822
+Ensemble test auc = 0.849822
+Overall dmpnn test auc = 0.849822 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.962252 +/- 0.000000
+Overall morgen_test auc = 0.968161 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.968416 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.826388 on epoch 0
+Model 0 test auc = 0.825509
+Ensemble test auc = 0.825509
+Overall dmpnn test auc = 0.825509 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.972724 +/- 0.000000
+Overall morgen_test auc = 0.977399 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.975550 +/- 0.000000
+Fold 0
+Fold 0
+Model 0 best validation auc = 0.855694 on epoch 0
+Model 0 test auc = 0.813754
+Ensemble test auc = 0.813754
+Overall dmpnn test auc = 0.813754 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978095 +/- 0.000000
+Overall morgen_test auc = 0.981049 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.981100 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.855694 on epoch 0
+Model 0 test auc = 0.813754
+Ensemble test auc = 0.813754
+Overall dmpnn test auc = 0.813754 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978095 +/- 0.000000
+Overall morgen_test auc = 0.981049 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.981100 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.855694 on epoch 0
+Model 0 test auc = 0.813754
+Ensemble test auc = 0.813754
+Overall dmpnn test auc = 0.813754 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978095 +/- 0.000000
+Overall morgen_test auc = 0.981049 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.981100 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976915 on epoch 37
+Model 0 test auc = 0.973102
+Ensemble test auc = 0.973102
+Overall dmpnn test auc = 0.973102 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.969689 +/- 0.000000
+Overall morgen_test auc = 0.981049 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.972644 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976915 on epoch 37
+Model 0 test auc = 0.973102
+Ensemble test auc = 0.973102
+Overall dmpnn test auc = 0.973102 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.969689 +/- 0.000000
+Overall morgen_test auc = 0.981049 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.972644 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.973602 on epoch 24
+Model 0 test auc = 0.971472
+Ensemble test auc = 0.971472
+Overall dmpnn test auc = 0.971472 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.972185 +/- 0.000000
+Overall morgen_test auc = 0.975369 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.972389 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.958799 on epoch 9
+Model 0 test auc = 0.962557
+Ensemble test auc = 0.962557
+Overall dmpnn test auc = 0.962557 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.979470 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.979215 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.970807 on epoch 18
+Model 0 test auc = 0.971116
+Ensemble test auc = 0.971116
+Overall dmpnn test auc = 0.971116 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.975751 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.976312 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.973602 on epoch 24
+Model 0 test auc = 0.971472
+Ensemble test auc = 0.971472
+Overall dmpnn test auc = 0.971472 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.976108 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.976617 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.855694 on epoch 0
+Model 0 test auc = 0.813754
+Ensemble test auc = 0.813754
+Overall dmpnn test auc = 0.813754 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.979623 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.981049 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.855694 on epoch 0
+Model 0 test auc = 0.813754
+Ensemble test auc = 0.813754
+Overall dmpnn test auc = 0.813754 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.979623 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.981049 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.973602 on epoch 24
+Model 0 test auc = 0.971472
+Ensemble test auc = 0.971472
+Overall dmpnn test auc = 0.971472 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.976108 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.976617 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.958799 on epoch 9
+Model 0 test auc = 0.962557
+Ensemble test auc = 0.962557
+Overall dmpnn test auc = 0.962557 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.979470 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.979215 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.970807 on epoch 18
+Model 0 test auc = 0.971116
+Ensemble test auc = 0.971116
+Overall dmpnn test auc = 0.971116 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.975751 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.976312 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976967 on epoch 37
+Model 0 test auc = 0.973612
+Ensemble test auc = 0.973612
+Overall dmpnn test auc = 0.973612 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.974834 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.975242 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976915 on epoch 37
+Model 0 test auc = 0.973102
+Ensemble test auc = 0.973102
+Overall dmpnn test auc = 0.973102 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.968619 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.972236 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.977588 on epoch 37
+Model 0 test auc = 0.973968
+Ensemble test auc = 0.973968
+Overall dmpnn test auc = 0.973968 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.973968 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.973001 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976915 on epoch 37
+Model 0 test auc = 0.973102
+Ensemble test auc = 0.973102
+Overall dmpnn test auc = 0.973102 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.968619 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.972236 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.958799 on epoch 9
+Model 0 test auc = 0.962557
+Ensemble test auc = 0.962557
+Overall dmpnn test auc = 0.962557 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.979470 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.979215 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.970807 on epoch 18
+Model 0 test auc = 0.971116
+Ensemble test auc = 0.971116
+Overall dmpnn test auc = 0.971116 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.975751 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.976312 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.977588 on epoch 37
+Model 0 test auc = 0.973968
+Ensemble test auc = 0.973968
+Overall dmpnn test auc = 0.973968 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.973968 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.973001 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976967 on epoch 37
+Model 0 test auc = 0.973612
+Ensemble test auc = 0.973612
+Overall dmpnn test auc = 0.973612 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.974834 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.975242 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.973602 on epoch 24
+Model 0 test auc = 0.971472
+Ensemble test auc = 0.971472
+Overall dmpnn test auc = 0.971472 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.976108 +/- 0.000000
+Overall morgen_test auc = 0.982221 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.976617 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.945316 on epoch 28
+Model 0 test auc = 0.964422
+Ensemble test auc = 0.964422
+Overall dmpnn test auc = 0.964422 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.958443 +/- 0.000000
+Overall morgen_test auc = 0.977757 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.961911 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.915439 on epoch 9
+Model 0 test auc = 0.952523
+Ensemble test auc = 0.952523
+Overall dmpnn test auc = 0.952523 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.969326 +/- 0.000000
+Overall morgen_test auc = 0.977757 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.970880 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.871982 on epoch 9
+Model 0 test auc = 0.921490
+Ensemble test auc = 0.921490
+Overall dmpnn test auc = 0.921490 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.964781 +/- 0.000000
+Overall morgen_test auc = 0.977757 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.975185 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.922139 on epoch 29
+Model 0 test auc = 0.959280
+Ensemble test auc = 0.959280
+Overall dmpnn test auc = 0.959280 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.968548 +/- 0.000000
+Overall morgen_test auc = 0.977757 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.967173 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.879466 on epoch 29
+Model 0 test auc = 0.932492
+Ensemble test auc = 0.932492
+Overall dmpnn test auc = 0.932492 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.963705 +/- 0.000000
+Overall morgen_test auc = 0.977757 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.975783 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.908800 on epoch 49
+Model 0 test auc = 0.956649
+Ensemble test auc = 0.956649
+Overall dmpnn test auc = 0.956649 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.964064 +/- 0.000000
+Overall morgen_test auc = 0.977757 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.970402 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.928718 on epoch 42
+Model 0 test auc = 0.963765
+Ensemble test auc = 0.963765
+Overall dmpnn test auc = 0.963765 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.971359 +/- 0.000000
+Overall morgen_test auc = 0.977757 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.972913 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.928718 on epoch 42
+Model 0 test auc = 0.963765
+Ensemble test auc = 0.963765
+Overall dmpnn test auc = 0.963765 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.971359 +/- 0.000000
+Overall morgen_test auc = 0.977757 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.972913 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.934573 on epoch 42
+Model 0 test auc = 0.960476
+Ensemble test auc = 0.960476
+Overall dmpnn test auc = 0.960476 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.967352 +/- 0.000000
+Overall morgen_test auc = 0.977757 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.966336 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.934573 on epoch 42
+Model 0 test auc = 0.960476
+Ensemble test auc = 0.960476
+Overall dmpnn test auc = 0.960476 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.967352 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.963286 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.701835 on epoch 0
+Model 0 test auc = 0.781811
+Ensemble test auc = 0.781811
+Overall dmpnn test auc = 0.781811 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.967113 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.969923 +/- 0.000000
+Fold 0
+Fold 0
+Model 0 best validation auc = 0.871982 on epoch 9
+Model 0 test auc = 0.921490
+Ensemble test auc = 0.921490
+Overall dmpnn test auc = 0.921490 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.964781 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.975843 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.871982 on epoch 9
+Model 0 test auc = 0.921490
+Ensemble test auc = 0.921490
+Overall dmpnn test auc = 0.921490 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.964781 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.975843 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.701835 on epoch 0
+Model 0 test auc = 0.781811
+Ensemble test auc = 0.781811
+Overall dmpnn test auc = 0.781811 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.967113 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.969923 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.871982 on epoch 9
+Model 0 test auc = 0.921490
+Ensemble test auc = 0.921490
+Overall dmpnn test auc = 0.921490 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.964781 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.975843 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.701835 on epoch 0
+Model 0 test auc = 0.781811
+Ensemble test auc = 0.781811
+Overall dmpnn test auc = 0.781811 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.967113 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.969923 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.701835 on epoch 0
+Model 0 test auc = 0.781811
+Ensemble test auc = 0.781811
+Overall dmpnn test auc = 0.781811 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.967113 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.969923 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.871982 on epoch 9
+Model 0 test auc = 0.921490
+Ensemble test auc = 0.921490
+Overall dmpnn test auc = 0.921490 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.964781 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.975843 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.907593 on epoch 19
+Model 0 test auc = 0.954736
+Ensemble test auc = 0.954736
+Overall dmpnn test auc = 0.954736 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.957785 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.969385 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.922139 on epoch 29
+Model 0 test auc = 0.959280
+Ensemble test auc = 0.959280
+Overall dmpnn test auc = 0.959280 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.968548 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.969445 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.930649 on epoch 37
+Model 0 test auc = 0.962928
+Ensemble test auc = 0.962928
+Overall dmpnn test auc = 0.962928 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.968728 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.969326 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.934573 on epoch 42
+Model 0 test auc = 0.960476
+Ensemble test auc = 0.960476
+Overall dmpnn test auc = 0.960476 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.967352 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.963286 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.718312 on epoch 0
+Model 0 test auc = 0.793291
+Ensemble test auc = 0.793291
+Overall dmpnn test auc = 0.793291 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.973691 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.975425 +/- 0.000000
+Fold 0
+Fold 0
+Model 0 best validation auc = 0.894616 on epoch 9
+Model 0 test auc = 0.936140
+Ensemble test auc = 0.936140
+Overall dmpnn test auc = 0.936140 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.970581 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.974707 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.919423 on epoch 19
+Model 0 test auc = 0.960715
+Ensemble test auc = 0.960715
+Overall dmpnn test auc = 0.960715 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.966814 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.972554 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.934271 on epoch 28
+Model 0 test auc = 0.964781
+Ensemble test auc = 0.964781
+Overall dmpnn test auc = 0.964781 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.962270 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.964901 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.938556 on epoch 39
+Model 0 test auc = 0.964422
+Ensemble test auc = 0.964422
+Overall dmpnn test auc = 0.964422 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.959998 +/- 0.000000
+Overall morgen_test auc = 0.976022 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.964961 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977936 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.960034 on epoch 9
+Model 0 test auc = 0.950300
+Ensemble test auc = 0.950300
+Overall dmpnn test auc = 0.950300 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984998 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985831 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.971560 on epoch 17
+Model 0 test auc = 0.975260
+Ensemble test auc = 0.975260
+Overall dmpnn test auc = 0.975260 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986182 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985371 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.975137 on epoch 29
+Model 0 test auc = 0.981182
+Ensemble test auc = 0.981182
+Overall dmpnn test auc = 0.981182 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.985130 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986709 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.900813 on epoch 4
+Model 0 test auc = 0.904330
+Ensemble test auc = 0.904330
+Overall dmpnn test auc = 0.904330 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981752 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.992016 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.851263 on epoch 2
+Model 0 test auc = 0.868842
+Ensemble test auc = 0.868842
+Overall dmpnn test auc = 0.868842 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.980480 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991753 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.805291 on epoch 1
+Model 0 test auc = 0.824231
+Ensemble test auc = 0.824231
+Overall dmpnn test auc = 0.824231 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.983200 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991446 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977936 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.758479 on epoch 0
+Model 0 test auc = 0.787253
+Ensemble test auc = 0.787253
+Overall dmpnn test auc = 0.787253 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981226 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991973 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.960034 on epoch 9
+Model 0 test auc = 0.950300
+Ensemble test auc = 0.950300
+Overall dmpnn test auc = 0.950300 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984998 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985831 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.788907 on epoch 0
+Model 0 test auc = 0.807255
+Ensemble test auc = 0.807255
+Overall dmpnn test auc = 0.807255 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984340 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987498 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976683 on epoch 29
+Model 0 test auc = 0.982892
+Ensemble test auc = 0.982892
+Overall dmpnn test auc = 0.982892 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982849 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.982147 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972973 on epoch 18
+Model 0 test auc = 0.981006
+Ensemble test auc = 0.981006
+Overall dmpnn test auc = 0.981006 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977541 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.983901 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.967762 on epoch 9
+Model 0 test auc = 0.964469
+Ensemble test auc = 0.964469
+Overall dmpnn test auc = 0.964469 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.980919 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985173 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976683 on epoch 29
+Model 0 test auc = 0.982892
+Ensemble test auc = 0.982892
+Overall dmpnn test auc = 0.982892 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982849 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.982147 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.974960 on epoch 29
+Model 0 test auc = 0.984472
+Ensemble test auc = 0.984472
+Overall dmpnn test auc = 0.984472 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981291 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.989209 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.949744 on epoch 29
+Model 0 test auc = 0.943150
+Ensemble test auc = 0.943150
+Overall dmpnn test auc = 0.943150 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.979032 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991446 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.884075 on epoch 9
+Model 0 test auc = 0.882792
+Ensemble test auc = 0.882792
+Overall dmpnn test auc = 0.882792 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978945 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.993464 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.931593 on epoch 9
+Model 0 test auc = 0.910646
+Ensemble test auc = 0.910646
+Overall dmpnn test auc = 0.910646 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977716 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.990701 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.971781 on epoch 38
+Model 0 test auc = 0.970084
+Ensemble test auc = 0.970084
+Overall dmpnn test auc = 0.970084 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981840 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.979734 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.967276 on epoch 17
+Model 0 test auc = 0.967320
+Ensemble test auc = 0.967320
+Overall dmpnn test auc = 0.967320 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981664 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987498 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.753135 on epoch 0
+Model 0 test auc = 0.778304
+Ensemble test auc = 0.778304
+Overall dmpnn test auc = 0.778304 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.979427 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991359 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.916402 on epoch 4
+Model 0 test auc = 0.905645
+Ensemble test auc = 0.905645
+Overall dmpnn test auc = 0.905645 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977716 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991709 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.924691 on epoch 4
+Model 0 test auc = 0.913101
+Ensemble test auc = 0.913101
+Overall dmpnn test auc = 0.913101 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.972219 +/- 0.000000
+Overall morgen_test auc = 0.988457 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.979987 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.924691 on epoch 4
+Model 0 test auc = 0.913101
+Ensemble test auc = 0.913101
+Overall dmpnn test auc = 0.913101 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.972219 +/- 0.000000
+Overall morgen_test auc = 0.988457 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.979987 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.916659 on epoch 4
+Model 0 test auc = 0.926876
+Ensemble test auc = 0.926876
+Overall dmpnn test auc = 0.926876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981489 +/- 0.000000
+Overall morgen_test auc = 0.994122 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.990437 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.805504 on epoch 0
+Model 0 test auc = 0.767522
+Ensemble test auc = 0.767522
+Overall dmpnn test auc = 0.767522 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.980513 +/- 0.000000
+Overall morgen_test auc = 0.988457 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.984332 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.786086 on epoch 0
+Model 0 test auc = 0.757412
+Ensemble test auc = 0.757412
+Overall dmpnn test auc = 0.757412 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.979957 +/- 0.000000
+Overall morgen_test auc = 0.982512 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986344 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977936 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.857962 on epoch 1
+Model 0 test auc = 0.844327
+Ensemble test auc = 0.844327
+Overall dmpnn test auc = 0.844327 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.995436 +/- 0.000000
+Overall morgen_test auc = 0.993899 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.997147 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.805291 on epoch 1
+Model 0 test auc = 0.824231
+Ensemble test auc = 0.824231
+Overall dmpnn test auc = 0.824231 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.983200 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991446 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977936 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977936 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.807593 on epoch 0
+Model 0 test auc = 0.783805
+Ensemble test auc = 0.783805
+Overall dmpnn test auc = 0.783805 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.991222 +/- 0.000000
+Overall morgen_test auc = 0.993899 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.995611 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977936 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977936 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977936 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.777421 on epoch 0
+Model 0 test auc = 0.840168
+Ensemble test auc = 0.840168
+Overall dmpnn test auc = 0.840168 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.987481 +/- 0.000000
+Overall morgen_test auc = 0.997434 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.992789 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977936 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977936 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Fold 1
+Model 0 best validation auc = 0.760334 on epoch 0
+Model 0 test auc = 0.802943
+Ensemble test auc = 0.802943
+Fold 2
+Model 0 best validation auc = 0.754990 on epoch 0
+Model 0 test auc = 0.799348
+Ensemble test auc = 0.799348
+Fold 3
+Model 0 best validation auc = 0.779611 on epoch 0
+Model 0 test auc = 0.801993
+Ensemble test auc = 0.801993
+Fold 4
+Model 0 best validation auc = 0.796421 on epoch 0
+Model 0 test auc = 0.788369
+Ensemble test auc = 0.788369
+Overall dmpnn test auc = 0.797306 +/- 0.005469
+Overall dmpnn_xgb_test auc = 0.985481 +/- 0.009002
+Overall morgen_test auc = 0.991233 +/- 0.007081
+Overall dmpnn_morgen_test auc = 0.989408 +/- 0.007787
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Fold 1
+Model 0 best validation auc = 0.760334 on epoch 0
+Model 0 test auc = 0.802943
+Ensemble test auc = 0.802943
+Fold 2
+Model 0 best validation auc = 0.754990 on epoch 0
+Model 0 test auc = 0.799348
+Ensemble test auc = 0.799348
+Fold 3
+Model 0 best validation auc = 0.779611 on epoch 0
+Model 0 test auc = 0.801993
+Ensemble test auc = 0.801993
+Fold 4
+Model 0 best validation auc = 0.796421 on epoch 0
+Model 0 test auc = 0.788369
+Ensemble test auc = 0.788369
+Overall dmpnn test auc = 0.797306 +/- 0.005469
+Overall dmpnn_xgb_test auc = 0.985560 +/- 0.009004
+Overall morgen_test auc = 0.991233 +/- 0.007081
+Overall dmpnn_morgen_test auc = 0.989408 +/- 0.007787
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.798313 on epoch 0
+Model 0 test auc = 0.804964
+Ensemble test auc = 0.804964
+Fold 1
+Model 0 best validation auc = 0.778352 on epoch 0
+Model 0 test auc = 0.789085
+Ensemble test auc = 0.789085
+Fold 2
+Model 0 best validation auc = 0.786086 on epoch 0
+Model 0 test auc = 0.757412
+Ensemble test auc = 0.757412
+Fold 3
+Model 0 best validation auc = 0.778480 on epoch 0
+Model 0 test auc = 0.805720
+Ensemble test auc = 0.805720
+Fold 4
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.790211 +/- 0.017599
+Overall dmpnn_xgb_test auc = 0.982562 +/- 0.004680
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.988811 +/- 0.001816
+Fold 0
+Model 0 best validation auc = 0.798313 on epoch 0
+Model 0 test auc = 0.804964
+Ensemble test auc = 0.804964
+Fold 1
+Model 0 best validation auc = 0.778352 on epoch 0
+Model 0 test auc = 0.789085
+Ensemble test auc = 0.789085
+Fold 2
+Model 0 best validation auc = 0.786086 on epoch 0
+Model 0 test auc = 0.757412
+Ensemble test auc = 0.757412
+Fold 3
+Model 0 best validation auc = 0.778480 on epoch 0
+Model 0 test auc = 0.805720
+Ensemble test auc = 0.805720
+Fold 4
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.790211 +/- 0.017599
+Overall dmpnn_xgb_test auc = 0.982562 +/- 0.004680
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.988811 +/- 0.001816
+Fold 0
+Model 0 best validation auc = 0.798313 on epoch 0
+Model 0 test auc = 0.804964
+Ensemble test auc = 0.804964
+Fold 1
+Model 0 best validation auc = 0.778352 on epoch 0
+Model 0 test auc = 0.789085
+Ensemble test auc = 0.789085
+Fold 2
+Model 0 best validation auc = 0.786086 on epoch 0
+Model 0 test auc = 0.757412
+Ensemble test auc = 0.757412
+Fold 3
+Model 0 best validation auc = 0.778480 on epoch 0
+Model 0 test auc = 0.805720
+Ensemble test auc = 0.805720
+Fold 4
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.790211 +/- 0.017599
+Overall dmpnn_xgb_test auc = 0.982562 +/- 0.004680
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.988811 +/- 0.001816
+Fold 0
+Model 0 best validation auc = 0.798313 on epoch 0
+Model 0 test auc = 0.804964
+Ensemble test auc = 0.804964
+Fold 1
+Model 0 best validation auc = 0.778352 on epoch 0
+Model 0 test auc = 0.789085
+Ensemble test auc = 0.789085
+Fold 2
+Model 0 best validation auc = 0.786086 on epoch 0
+Model 0 test auc = 0.757412
+Ensemble test auc = 0.757412
+Fold 3
+Model 0 best validation auc = 0.778480 on epoch 0
+Model 0 test auc = 0.805720
+Ensemble test auc = 0.805720
+Fold 4
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.790211 +/- 0.017599
+Overall dmpnn_xgb_test auc = 0.982562 +/- 0.004680
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.988811 +/- 0.001816
+Fold 0
+Model 0 best validation auc = 0.798313 on epoch 0
+Model 0 test auc = 0.804964
+Ensemble test auc = 0.804964
+Fold 1
+Model 0 best validation auc = 0.778352 on epoch 0
+Model 0 test auc = 0.789085
+Ensemble test auc = 0.789085
+Fold 2
+Model 0 best validation auc = 0.786086 on epoch 0
+Model 0 test auc = 0.757412
+Ensemble test auc = 0.757412
+Fold 3
+Model 0 best validation auc = 0.778480 on epoch 0
+Model 0 test auc = 0.805720
+Ensemble test auc = 0.805720
+Fold 4
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.790211 +/- 0.017599
+Overall dmpnn_xgb_test auc = 0.982562 +/- 0.004680
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.988811 +/- 0.001816
+Fold 0
+Model 0 best validation auc = 0.953100 on epoch 9
+Model 0 test auc = 0.942368
+Ensemble test auc = 0.942368
+Fold 1
+Model 0 best validation auc = 0.974342 on epoch 9
+Model 0 test auc = 0.968882
+Ensemble test auc = 0.968882
+Fold 2
+Model 0 best validation auc = 0.967814 on epoch 9
+Model 0 test auc = 0.948460
+Ensemble test auc = 0.948460
+Fold 3
+Model 0 best validation auc = 0.969642 on epoch 8
+Model 0 test auc = 0.967452
+Ensemble test auc = 0.967452
+Fold 4
+Model 0 best validation auc = 0.960034 on epoch 9
+Model 0 test auc = 0.950300
+Ensemble test auc = 0.950300
+Overall dmpnn test auc = 0.955492 +/- 0.010686
+Overall dmpnn_xgb_test auc = 0.982929 +/- 0.004376
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.987352 +/- 0.002406
+Fold 0
+Model 0 best validation auc = 0.976594 on epoch 19
+Model 0 test auc = 0.962750
+Ensemble test auc = 0.962750
+Fold 1
+Model 0 best validation auc = 0.984588 on epoch 18
+Model 0 test auc = 0.985211
+Ensemble test auc = 0.985211
+Fold 2
+Model 0 best validation auc = 0.989197 on epoch 19
+Model 0 test auc = 0.961588
+Ensemble test auc = 0.961588
+Fold 3
+Model 0 best validation auc = 0.982280 on epoch 19
+Model 0 test auc = 0.981489
+Ensemble test auc = 0.981489
+Fold 4
+Model 0 best validation auc = 0.971560 on epoch 17
+Model 0 test auc = 0.975260
+Ensemble test auc = 0.975260
+Overall dmpnn test auc = 0.973259 +/- 0.009605
+Overall dmpnn_xgb_test auc = 0.983614 +/- 0.005684
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.985273 +/- 0.005576
+Fold 0
+Model 0 best validation auc = 0.980436 on epoch 29
+Model 0 test auc = 0.971052
+Ensemble test auc = 0.971052
+Fold 1
+Model 0 best validation auc = 0.986222 on epoch 23
+Model 0 test auc = 0.989613
+Ensemble test auc = 0.989613
+Fold 2
+Model 0 best validation auc = 0.993859 on epoch 28
+Model 0 test auc = 0.965816
+Ensemble test auc = 0.965816
+Fold 3
+Model 0 best validation auc = 0.983429 on epoch 24
+Model 0 test auc = 0.985437
+Ensemble test auc = 0.985437
+Fold 4
+Model 0 best validation auc = 0.975137 on epoch 29
+Model 0 test auc = 0.981182
+Ensemble test auc = 0.981182
+Overall dmpnn test auc = 0.978620 +/- 0.008889
+Overall dmpnn_xgb_test auc = 0.983641 +/- 0.004545
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.985224 +/- 0.004379
+Fold 0
+Model 0 best validation auc = 0.982468 on epoch 39
+Model 0 test auc = 0.973688
+Ensemble test auc = 0.973688
+Fold 1
+Model 0 best validation auc = 0.986575 on epoch 21
+Model 0 test auc = 0.990185
+Ensemble test auc = 0.990185
+Fold 2
+Model 0 best validation auc = 0.994890 on epoch 37
+Model 0 test auc = 0.970222
+Ensemble test auc = 0.970222
+Fold 3
+Model 0 best validation auc = 0.984932 on epoch 24
+Model 0 test auc = 0.985568
+Ensemble test auc = 0.985568
+Fold 4
+Model 0 best validation auc = 0.976594 on epoch 39
+Model 0 test auc = 0.983507
+Ensemble test auc = 0.983507
+Overall dmpnn test auc = 0.980634 +/- 0.007490
+Overall dmpnn_xgb_test auc = 0.985279 +/- 0.004992
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.984901 +/- 0.005287
+Fold 0
+Model 0 best validation auc = 0.794427 on epoch 0
+Model 0 test auc = 0.791302
+Ensemble test auc = 0.791302
+Fold 1
+Model 0 best validation auc = 0.767930 on epoch 0
+Model 0 test auc = 0.782702
+Ensemble test auc = 0.782702
+Fold 2
+Model 0 best validation auc = 0.778555 on epoch 0
+Model 0 test auc = 0.759041
+Ensemble test auc = 0.759041
+Fold 3
+Model 0 best validation auc = 0.783783 on epoch 0
+Model 0 test auc = 0.808001
+Ensemble test auc = 0.808001
+Fold 4
+Model 0 best validation auc = 0.758479 on epoch 0
+Model 0 test auc = 0.787253
+Ensemble test auc = 0.787253
+Overall dmpnn test auc = 0.785660 +/- 0.015816
+Overall dmpnn_xgb_test auc = 0.980657 +/- 0.001591
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.989187 +/- 0.001854
+Fold 0
+Model 0 best validation auc = 0.939587 on epoch 9
+Model 0 test auc = 0.932835
+Ensemble test auc = 0.932835
+Fold 1
+Model 0 best validation auc = 0.957207 on epoch 9
+Model 0 test auc = 0.956118
+Ensemble test auc = 0.956118
+Fold 2
+Model 0 best validation auc = 0.948673 on epoch 9
+Model 0 test auc = 0.932338
+Ensemble test auc = 0.932338
+Fold 3
+Model 0 best validation auc = 0.960848 on epoch 9
+Model 0 test auc = 0.958065
+Ensemble test auc = 0.958065
+Fold 4
+Model 0 best validation auc = 0.941486 on epoch 9
+Model 0 test auc = 0.939861
+Ensemble test auc = 0.939861
+Overall dmpnn test auc = 0.943843 +/- 0.011156
+Overall dmpnn_xgb_test auc = 0.977722 +/- 0.003121
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.988609 +/- 0.002069
+Fold 0
+Model 0 best validation auc = 0.969263 on epoch 19
+Model 0 test auc = 0.955370
+Ensemble test auc = 0.955370
+Fold 1
+Model 0 best validation auc = 0.980039 on epoch 19
+Model 0 test auc = 0.977421
+Ensemble test auc = 0.977421
+Fold 2
+Model 0 best validation auc = 0.980142 on epoch 18
+Model 0 test auc = 0.959958
+Ensemble test auc = 0.959958
+Fold 3
+Model 0 best validation auc = 0.981529 on epoch 19
+Model 0 test auc = 0.971224
+Ensemble test auc = 0.971224
+Fold 4
+Model 0 best validation auc = 0.964406 on epoch 17
+Model 0 test auc = 0.968417
+Ensemble test auc = 0.968417
+Overall dmpnn test auc = 0.966478 +/- 0.007898
+Overall dmpnn_xgb_test auc = 0.980643 +/- 0.004267
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.985863 +/- 0.004324
+Fold 0
+Model 0 best validation auc = 0.974916 on epoch 29
+Model 0 test auc = 0.965342
+Ensemble test auc = 0.965342
+Fold 1
+Model 0 best validation auc = 0.984102 on epoch 28
+Model 0 test auc = 0.983979
+Ensemble test auc = 0.983979
+Fold 2
+Model 0 best validation auc = 0.987538 on epoch 27
+Model 0 test auc = 0.966962
+Ensemble test auc = 0.966962
+Fold 3
+Model 0 best validation auc = 0.983208 on epoch 29
+Model 0 test auc = 0.978462
+Ensemble test auc = 0.978462
+Fold 4
+Model 0 best validation auc = 0.969219 on epoch 23
+Model 0 test auc = 0.976751
+Ensemble test auc = 0.976751
+Overall dmpnn test auc = 0.974299 +/- 0.007087
+Overall dmpnn_xgb_test auc = 0.983848 +/- 0.003180
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.985865 +/- 0.003734
+Fold 0
+Model 0 best validation auc = 0.977875 on epoch 39
+Model 0 test auc = 0.969207
+Ensemble test auc = 0.969207
+Fold 1
+Model 0 best validation auc = 0.984323 on epoch 19
+Model 0 test auc = 0.983539
+Ensemble test auc = 0.983539
+Fold 2
+Model 0 best validation auc = 0.991169 on epoch 39
+Model 0 test auc = 0.969385
+Ensemble test auc = 0.969385
+Fold 3
+Model 0 best validation auc = 0.983429 on epoch 30
+Model 0 test auc = 0.980655
+Ensemble test auc = 0.980655
+Fold 4
+Model 0 best validation auc = 0.972399 on epoch 34
+Model 0 test auc = 0.980568
+Ensemble test auc = 0.980568
+Overall dmpnn test auc = 0.976671 +/- 0.006116
+Overall dmpnn_xgb_test auc = 0.982830 +/- 0.004826
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.984210 +/- 0.006376
+Fold 0
+Model 0 best validation auc = 0.983793 on epoch 36
+Model 0 test auc = 0.975313
+Ensemble test auc = 0.975313
+Fold 1
+Model 0 best validation auc = 0.986840 on epoch 21
+Model 0 test auc = 0.989349
+Ensemble test auc = 0.989349
+Fold 2
+Model 0 best validation auc = 0.995562 on epoch 25
+Model 0 test auc = 0.967799
+Ensemble test auc = 0.967799
+Fold 3
+Model 0 best validation auc = 0.985373 on epoch 24
+Model 0 test auc = 0.984252
+Ensemble test auc = 0.984252
+Fold 4
+Model 0 best validation auc = 0.977301 on epoch 36
+Model 0 test auc = 0.984559
+Ensemble test auc = 0.984559
+Overall dmpnn test auc = 0.980254 +/- 0.007704
+Overall dmpnn_xgb_test auc = 0.983864 +/- 0.005964
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.983808 +/- 0.005544
+Fold 0
+Model 0 best validation auc = 0.983660 on epoch 29
+Model 0 test auc = 0.972721
+Ensemble test auc = 0.972721
+Fold 1
+Model 0 best validation auc = 0.987105 on epoch 21
+Model 0 test auc = 0.988512
+Ensemble test auc = 0.988512
+Fold 2
+Model 0 best validation auc = 0.994935 on epoch 27
+Model 0 test auc = 0.968239
+Ensemble test auc = 0.968239
+Fold 3
+Model 0 best validation auc = 0.985329 on epoch 24
+Model 0 test auc = 0.984121
+Ensemble test auc = 0.984121
+Fold 4
+Model 0 best validation auc = 0.974960 on epoch 29
+Model 0 test auc = 0.984472
+Ensemble test auc = 0.984472
+Overall dmpnn test auc = 0.979613 +/- 0.007746
+Overall dmpnn_xgb_test auc = 0.981087 +/- 0.004952
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.984445 +/- 0.005720
+Fold 0
+Model 0 best validation auc = 0.979244 on epoch 18
+Model 0 test auc = 0.968416
+Ensemble test auc = 0.968416
+Fold 1
+Model 0 best validation auc = 0.985957 on epoch 19
+Model 0 test auc = 0.985739
+Ensemble test auc = 0.985739
+Fold 2
+Model 0 best validation auc = 0.992290 on epoch 19
+Model 0 test auc = 0.964980
+Ensemble test auc = 0.964980
+Fold 3
+Model 0 best validation auc = 0.984666 on epoch 16
+Model 0 test auc = 0.979646
+Ensemble test auc = 0.979646
+Fold 4
+Model 0 best validation auc = 0.971604 on epoch 17
+Model 0 test auc = 0.980217
+Ensemble test auc = 0.980217
+Overall dmpnn test auc = 0.975800 +/- 0.007806
+Overall dmpnn_xgb_test auc = 0.983710 +/- 0.005037
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.985147 +/- 0.003522
+Fold 0
+Model 0 best validation auc = 0.959813 on epoch 9
+Model 0 test auc = 0.949089
+Ensemble test auc = 0.949089
+Fold 1
+Model 0 best validation auc = 0.974916 on epoch 9
+Model 0 test auc = 0.974252
+Ensemble test auc = 0.974252
+Fold 2
+Model 0 best validation auc = 0.969204 on epoch 9
+Model 0 test auc = 0.948504
+Ensemble test auc = 0.948504
+Fold 3
+Model 0 best validation auc = 0.974194 on epoch 8
+Model 0 test auc = 0.966004
+Ensemble test auc = 0.966004
+Fold 4
+Model 0 best validation auc = 0.962727 on epoch 9
+Model 0 test auc = 0.957363
+Ensemble test auc = 0.957363
+Overall dmpnn test auc = 0.959042 +/- 0.009927
+Overall dmpnn_xgb_test auc = 0.982894 +/- 0.004390
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.985505 +/- 0.003625
+Fold 0
+Model 0 best validation auc = 0.806041 on epoch 0
+Model 0 test auc = 0.814101
+Ensemble test auc = 0.814101
+Fold 1
+Model 0 best validation auc = 0.791512 on epoch 0
+Model 0 test auc = 0.808407
+Ensemble test auc = 0.808407
+Fold 2
+Model 0 best validation auc = 0.805092 on epoch 0
+Model 0 test auc = 0.776442
+Ensemble test auc = 0.776442
+Fold 3
+Model 0 best validation auc = 0.787450 on epoch 0
+Model 0 test auc = 0.814581
+Ensemble test auc = 0.814581
+Fold 4
+Model 0 best validation auc = 0.777027 on epoch 0
+Model 0 test auc = 0.797342
+Ensemble test auc = 0.797342
+Overall dmpnn test auc = 0.802174 +/- 0.014287
+Overall dmpnn_xgb_test auc = 0.983437 +/- 0.004458
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.988148 +/- 0.002999
+Fold 0
+Model 0 best validation auc = 0.985471 on epoch 38
+Model 0 test auc = 0.977597
+Ensemble test auc = 0.977597
+Fold 1
+Model 0 best validation auc = 0.986089 on epoch 21
+Model 0 test auc = 0.991725
+Ensemble test auc = 0.991725
+Fold 2
+Model 0 best validation auc = 0.995383 on epoch 31
+Model 0 test auc = 0.969869
+Ensemble test auc = 0.969869
+Fold 3
+Model 0 best validation auc = 0.984976 on epoch 36
+Model 0 test auc = 0.984998
+Ensemble test auc = 0.984998
+Fold 4
+Model 0 best validation auc = 0.979730 on epoch 36
+Model 0 test auc = 0.983419
+Ensemble test auc = 0.983419
+Overall dmpnn test auc = 0.981522 +/- 0.007362
+Overall dmpnn_xgb_test auc = 0.982399 +/- 0.003852
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.983413 +/- 0.004622
+Fold 0
+Model 0 best validation auc = 0.984013 on epoch 28
+Model 0 test auc = 0.976279
+Ensemble test auc = 0.976279
+Fold 1
+Model 0 best validation auc = 0.985515 on epoch 18
+Model 0 test auc = 0.990229
+Ensemble test auc = 0.990229
+Fold 2
+Model 0 best validation auc = 0.995204 on epoch 26
+Model 0 test auc = 0.966786
+Ensemble test auc = 0.966786
+Fold 3
+Model 0 best validation auc = 0.983076 on epoch 28
+Model 0 test auc = 0.983770
+Ensemble test auc = 0.983770
+Fold 4
+Model 0 best validation auc = 0.976683 on epoch 29
+Model 0 test auc = 0.982892
+Ensemble test auc = 0.982892
+Overall dmpnn test auc = 0.979991 +/- 0.007946
+Overall dmpnn_xgb_test auc = 0.981824 +/- 0.006038
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.983188 +/- 0.005476
+Fold 0
+Model 0 best validation auc = 0.980039 on epoch 19
+Model 0 test auc = 0.972062
+Ensemble test auc = 0.972062
+Fold 1
+Model 0 best validation auc = 0.984632 on epoch 14
+Model 0 test auc = 0.986356
+Ensemble test auc = 0.986356
+Fold 2
+Model 0 best validation auc = 0.993366 on epoch 17
+Model 0 test auc = 0.965772
+Ensemble test auc = 0.965772
+Fold 3
+Model 0 best validation auc = 0.981750 on epoch 15
+Model 0 test auc = 0.979471
+Ensemble test auc = 0.979471
+Fold 4
+Model 0 best validation auc = 0.972973 on epoch 18
+Model 0 test auc = 0.981006
+Ensemble test auc = 0.981006
+Overall dmpnn test auc = 0.976934 +/- 0.007212
+Overall dmpnn_xgb_test auc = 0.982401 +/- 0.006292
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.984857 +/- 0.005243
+Fold 0
+Model 0 best validation auc = 0.968910 on epoch 9
+Model 0 test auc = 0.954843
+Ensemble test auc = 0.954843
+Fold 1
+Model 0 best validation auc = 0.977919 on epoch 9
+Model 0 test auc = 0.975792
+Ensemble test auc = 0.975792
+Fold 2
+Model 0 best validation auc = 0.978214 on epoch 9
+Model 0 test auc = 0.956257
+Ensemble test auc = 0.956257
+Fold 3
+Model 0 best validation auc = 0.974768 on epoch 8
+Model 0 test auc = 0.968285
+Ensemble test auc = 0.968285
+Fold 4
+Model 0 best validation auc = 0.967762 on epoch 9
+Model 0 test auc = 0.964469
+Ensemble test auc = 0.964469
+Overall dmpnn test auc = 0.963929 +/- 0.007764
+Overall dmpnn_xgb_test auc = 0.983127 +/- 0.004279
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.986319 +/- 0.004397
+Fold 0
+Model 0 best validation auc = 0.813107 on epoch 0
+Model 0 test auc = 0.823150
+Ensemble test auc = 0.823150
+Fold 1
+Model 0 best validation auc = 0.806615 on epoch 0
+Model 0 test auc = 0.814701
+Ensemble test auc = 0.814701
+Fold 2
+Model 0 best validation auc = 0.816434 on epoch 0
+Model 0 test auc = 0.795780
+Ensemble test auc = 0.795780
+Fold 3
+Model 0 best validation auc = 0.834909 on epoch 0
+Model 0 test auc = 0.837259
+Ensemble test auc = 0.837259
+Fold 4
+Model 0 best validation auc = 0.788907 on epoch 0
+Model 0 test auc = 0.807255
+Ensemble test auc = 0.807255
+Overall dmpnn test auc = 0.815629 +/- 0.014067
+Overall dmpnn_xgb_test auc = 0.984208 +/- 0.004129
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.989357 +/- 0.002586
+Fold 0
+Model 0 best validation auc = 0.986751 on epoch 38
+Model 0 test auc = 0.980540
+Ensemble test auc = 0.980540
+Fold 1
+Model 0 best validation auc = 0.985206 on epoch 12
+Model 0 test auc = 0.988644
+Ensemble test auc = 0.988644
+Fold 2
+Model 0 best validation auc = 0.996862 on epoch 25
+Model 0 test auc = 0.972512
+Ensemble test auc = 0.972512
+Fold 3
+Model 0 best validation auc = 0.986125 on epoch 33
+Model 0 test auc = 0.988332
+Ensemble test auc = 0.988332
+Fold 4
+Model 0 best validation auc = 0.981673 on epoch 37
+Model 0 test auc = 0.984208
+Ensemble test auc = 0.984208
+Overall dmpnn test auc = 0.982847 +/- 0.005961
+Overall dmpnn_xgb_test auc = 0.984202 +/- 0.003818
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.983593 +/- 0.002922
+Fold 0
+Model 0 best validation auc = 0.984632 on epoch 28
+Model 0 test auc = 0.976631
+Ensemble test auc = 0.976631
+Fold 1
+Model 0 best validation auc = 0.985294 on epoch 9
+Model 0 test auc = 0.985431
+Ensemble test auc = 0.985431
+Fold 2
+Model 0 best validation auc = 0.996503 on epoch 17
+Model 0 test auc = 0.966918
+Ensemble test auc = 0.966918
+Fold 3
+Model 0 best validation auc = 0.985771 on epoch 24
+Model 0 test auc = 0.987323
+Ensemble test auc = 0.987323
+Fold 4
+Model 0 best validation auc = 0.978802 on epoch 29
+Model 0 test auc = 0.983989
+Ensemble test auc = 0.983989
+Overall dmpnn test auc = 0.980058 +/- 0.007504
+Overall dmpnn_xgb_test auc = 0.980250 +/- 0.003941
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.983470 +/- 0.004895
+Fold 0
+Model 0 best validation auc = 0.982379 on epoch 18
+Model 0 test auc = 0.971711
+Ensemble test auc = 0.971711
+Fold 1
+Model 0 best validation auc = 0.984764 on epoch 10
+Model 0 test auc = 0.984551
+Ensemble test auc = 0.984551
+Fold 2
+Model 0 best validation auc = 0.995204 on epoch 19
+Model 0 test auc = 0.964803
+Ensemble test auc = 0.964803
+Fold 3
+Model 0 best validation auc = 0.983164 on epoch 19
+Model 0 test auc = 0.983550
+Ensemble test auc = 0.983550
+Fold 4
+Model 0 best validation auc = 0.972973 on epoch 15
+Model 0 test auc = 0.981269
+Ensemble test auc = 0.981269
+Overall dmpnn test auc = 0.977177 +/- 0.007678
+Overall dmpnn_xgb_test auc = 0.981474 +/- 0.003934
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.981862 +/- 0.005742
+Fold 0
+Model 0 best validation auc = 0.976153 on epoch 9
+Model 0 test auc = 0.961300
+Ensemble test auc = 0.961300
+Fold 1
+Model 0 best validation auc = 0.982424 on epoch 9
+Model 0 test auc = 0.979974
+Ensemble test auc = 0.979974
+Fold 2
+Model 0 best validation auc = 0.983145 on epoch 9
+Model 0 test auc = 0.959297
+Ensemble test auc = 0.959297
+Fold 3
+Model 0 best validation auc = 0.978215 on epoch 8
+Model 0 test auc = 0.971049
+Ensemble test auc = 0.971049
+Fold 4
+Model 0 best validation auc = 0.967585 on epoch 9
+Model 0 test auc = 0.972277
+Ensemble test auc = 0.972277
+Overall dmpnn test auc = 0.968779 +/- 0.007597
+Overall dmpnn_xgb_test auc = 0.981145 +/- 0.004853
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.984821 +/- 0.005423
+Fold 0
+Model 0 best validation auc = 0.829756 on epoch 0
+Model 0 test auc = 0.832726
+Ensemble test auc = 0.832726
+Fold 1
+Model 0 best validation auc = 0.813151 on epoch 0
+Model 0 test auc = 0.823768
+Ensemble test auc = 0.823768
+Fold 2
+Model 0 best validation auc = 0.827775 on epoch 0
+Model 0 test auc = 0.806264
+Ensemble test auc = 0.806264
+Fold 3
+Model 0 best validation auc = 0.840124 on epoch 0
+Model 0 test auc = 0.848006
+Ensemble test auc = 0.848006
+Fold 4
+Model 0 best validation auc = 0.800521 on epoch 0
+Model 0 test auc = 0.822477
+Ensemble test auc = 0.822477
+Overall dmpnn test auc = 0.826648 +/- 0.013670
+Overall dmpnn_xgb_test auc = 0.983926 +/- 0.004696
+Overall morgen_test auc = 0.991126 +/- 0.005224
+Overall dmpnn_morgen_test auc = 0.989400 +/- 0.001607
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.800521 on epoch 0
+Model 0 test auc = 0.822477
+Ensemble test auc = 0.822477
+Overall dmpnn test auc = 0.822477 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.990701 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.992192 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.800521 on epoch 0
+Model 0 test auc = 0.822477
+Ensemble test auc = 0.822477
+Overall dmpnn test auc = 0.822477 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.990701 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.992192 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.800521 on epoch 0
+Model 0 test auc = 0.822477
+Ensemble test auc = 0.822477
+Overall dmpnn test auc = 0.822477 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.990701 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.992192 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.960034 on epoch 9
+Model 0 test auc = 0.950300
+Ensemble test auc = 0.950300
+Overall dmpnn test auc = 0.950300 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.983726 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985831 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.971560 on epoch 17
+Model 0 test auc = 0.975260
+Ensemble test auc = 0.975260
+Overall dmpnn test auc = 0.975260 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986182 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985371 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.975137 on epoch 29
+Model 0 test auc = 0.981182
+Ensemble test auc = 0.981182
+Overall dmpnn test auc = 0.981182 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.985130 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986709 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976594 on epoch 39
+Model 0 test auc = 0.983507
+Ensemble test auc = 0.983507
+Overall dmpnn test auc = 0.983507 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986840 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985524 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.758479 on epoch 0
+Model 0 test auc = 0.787253
+Ensemble test auc = 0.787253
+Overall dmpnn test auc = 0.787253 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981226 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991973 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.941486 on epoch 9
+Model 0 test auc = 0.939861
+Ensemble test auc = 0.939861
+Overall dmpnn test auc = 0.939861 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978945 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.989516 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.964406 on epoch 17
+Model 0 test auc = 0.968417
+Ensemble test auc = 0.968417
+Overall dmpnn test auc = 0.968417 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981094 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986840 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.969219 on epoch 23
+Model 0 test auc = 0.976751
+Ensemble test auc = 0.976751
+Overall dmpnn test auc = 0.976751 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982103 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985524 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972399 on epoch 34
+Model 0 test auc = 0.980568
+Ensemble test auc = 0.980568
+Overall dmpnn test auc = 0.980568 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982147 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987411 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.777027 on epoch 0
+Model 0 test auc = 0.797342
+Ensemble test auc = 0.797342
+Overall dmpnn test auc = 0.797342 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.987586 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.990657 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.962727 on epoch 9
+Model 0 test auc = 0.957363
+Ensemble test auc = 0.957363
+Overall dmpnn test auc = 0.957363 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986007 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987981 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.971604 on epoch 17
+Model 0 test auc = 0.980217
+Ensemble test auc = 0.980217
+Overall dmpnn test auc = 0.980217 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.989911 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.984428 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.974960 on epoch 29
+Model 0 test auc = 0.984472
+Ensemble test auc = 0.984472
+Overall dmpnn test auc = 0.984472 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981291 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.989209 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.977301 on epoch 36
+Model 0 test auc = 0.984559
+Ensemble test auc = 0.984559
+Overall dmpnn test auc = 0.984559 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.987454 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987367 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.979730 on epoch 36
+Model 0 test auc = 0.983419
+Ensemble test auc = 0.983419
+Overall dmpnn test auc = 0.983419 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984121 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986095 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976683 on epoch 29
+Model 0 test auc = 0.982892
+Ensemble test auc = 0.982892
+Overall dmpnn test auc = 0.982892 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982849 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.982147 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972973 on epoch 18
+Model 0 test auc = 0.981006
+Ensemble test auc = 0.981006
+Overall dmpnn test auc = 0.981006 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977541 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.983901 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.967762 on epoch 9
+Model 0 test auc = 0.964469
+Ensemble test auc = 0.964469
+Overall dmpnn test auc = 0.964469 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.980919 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985173 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.788907 on epoch 0
+Model 0 test auc = 0.807255
+Ensemble test auc = 0.807255
+Overall dmpnn test auc = 0.807255 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984340 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987498 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.981673 on epoch 37
+Model 0 test auc = 0.984208
+Ensemble test auc = 0.984208
+Overall dmpnn test auc = 0.984208 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986621 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985919 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.978802 on epoch 29
+Model 0 test auc = 0.983989
+Ensemble test auc = 0.983989
+Overall dmpnn test auc = 0.983989 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.985042 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.988420 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972973 on epoch 15
+Model 0 test auc = 0.981269
+Ensemble test auc = 0.981269
+Overall dmpnn test auc = 0.981269 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978374 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985086 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.967585 on epoch 9
+Model 0 test auc = 0.972277
+Ensemble test auc = 0.972277
+Overall dmpnn test auc = 0.972277 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984428 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.988595 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.800521 on epoch 0
+Model 0 test auc = 0.822477
+Ensemble test auc = 0.822477
+Overall dmpnn test auc = 0.822477 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.990701 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.992192 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.758479 on epoch 0
+Model 0 test auc = 0.787253
+Ensemble test auc = 0.787253
+Overall dmpnn test auc = 0.787253 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981226 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991973 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.941486 on epoch 9
+Model 0 test auc = 0.939861
+Ensemble test auc = 0.939861
+Overall dmpnn test auc = 0.939861 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978945 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.989516 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.964406 on epoch 17
+Model 0 test auc = 0.968417
+Ensemble test auc = 0.968417
+Overall dmpnn test auc = 0.968417 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981094 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986840 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.969219 on epoch 23
+Model 0 test auc = 0.976751
+Ensemble test auc = 0.976751
+Overall dmpnn test auc = 0.976751 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982103 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985524 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972399 on epoch 34
+Model 0 test auc = 0.980568
+Ensemble test auc = 0.980568
+Overall dmpnn test auc = 0.980568 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982147 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987411 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.960034 on epoch 9
+Model 0 test auc = 0.950300
+Ensemble test auc = 0.950300
+Overall dmpnn test auc = 0.950300 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.983726 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985831 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.971560 on epoch 17
+Model 0 test auc = 0.975260
+Ensemble test auc = 0.975260
+Overall dmpnn test auc = 0.975260 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986182 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985371 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.975137 on epoch 29
+Model 0 test auc = 0.981182
+Ensemble test auc = 0.981182
+Overall dmpnn test auc = 0.981182 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.985130 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986709 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.800521 on epoch 0
+Model 0 test auc = 0.822477
+Ensemble test auc = 0.822477
+Overall dmpnn test auc = 0.822477 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.990701 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.992192 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.788907 on epoch 0
+Model 0 test auc = 0.807255
+Ensemble test auc = 0.807255
+Overall dmpnn test auc = 0.807255 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984340 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987498 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.788907 on epoch 0
+Model 0 test auc = 0.807255
+Ensemble test auc = 0.807255
+Overall dmpnn test auc = 0.807255 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984340 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987498 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.777027 on epoch 0
+Model 0 test auc = 0.797342
+Ensemble test auc = 0.797342
+Overall dmpnn test auc = 0.797342 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.987586 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.990657 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976594 on epoch 39
+Model 0 test auc = 0.983507
+Ensemble test auc = 0.983507
+Overall dmpnn test auc = 0.983507 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986840 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985524 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.977301 on epoch 36
+Model 0 test auc = 0.984559
+Ensemble test auc = 0.984559
+Overall dmpnn test auc = 0.984559 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.987454 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987367 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.979730 on epoch 36
+Model 0 test auc = 0.983419
+Ensemble test auc = 0.983419
+Overall dmpnn test auc = 0.983419 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984121 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986095 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.981673 on epoch 37
+Model 0 test auc = 0.984208
+Ensemble test auc = 0.984208
+Overall dmpnn test auc = 0.984208 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986621 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985919 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.974960 on epoch 29
+Model 0 test auc = 0.984472
+Ensemble test auc = 0.984472
+Overall dmpnn test auc = 0.984472 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981291 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.989209 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976683 on epoch 29
+Model 0 test auc = 0.982892
+Ensemble test auc = 0.982892
+Overall dmpnn test auc = 0.982892 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982849 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.982147 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.978802 on epoch 29
+Model 0 test auc = 0.983989
+Ensemble test auc = 0.983989
+Overall dmpnn test auc = 0.983989 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.985042 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.988420 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972973 on epoch 15
+Model 0 test auc = 0.981269
+Ensemble test auc = 0.981269
+Overall dmpnn test auc = 0.981269 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978374 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985086 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.967585 on epoch 9
+Model 0 test auc = 0.972277
+Ensemble test auc = 0.972277
+Overall dmpnn test auc = 0.972277 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984428 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.988595 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972973 on epoch 18
+Model 0 test auc = 0.981006
+Ensemble test auc = 0.981006
+Overall dmpnn test auc = 0.981006 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977541 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.983901 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.967762 on epoch 9
+Model 0 test auc = 0.964469
+Ensemble test auc = 0.964469
+Overall dmpnn test auc = 0.964469 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.980919 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985173 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.971604 on epoch 17
+Model 0 test auc = 0.980217
+Ensemble test auc = 0.980217
+Overall dmpnn test auc = 0.980217 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.989911 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.984428 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.962727 on epoch 9
+Model 0 test auc = 0.957363
+Ensemble test auc = 0.957363
+Overall dmpnn test auc = 0.957363 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986007 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987981 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.777027 on epoch 0
+Model 0 test auc = 0.797342
+Ensemble test auc = 0.797342
+Overall dmpnn test auc = 0.797342 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.987586 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.990657 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.800521 on epoch 0
+Model 0 test auc = 0.822477
+Ensemble test auc = 0.822477
+Overall dmpnn test auc = 0.822477 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.990701 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.992192 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.788907 on epoch 0
+Model 0 test auc = 0.807255
+Ensemble test auc = 0.807255
+Overall dmpnn test auc = 0.807255 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984340 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987498 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.788907 on epoch 0
+Model 0 test auc = 0.807255
+Ensemble test auc = 0.807255
+Overall dmpnn test auc = 0.807255 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984340 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987498 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.777027 on epoch 0
+Model 0 test auc = 0.797342
+Ensemble test auc = 0.797342
+Overall dmpnn test auc = 0.797342 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.987586 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.990657 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.758479 on epoch 0
+Model 0 test auc = 0.787253
+Ensemble test auc = 0.787253
+Overall dmpnn test auc = 0.787253 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981226 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991973 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.941486 on epoch 9
+Model 0 test auc = 0.939861
+Ensemble test auc = 0.939861
+Overall dmpnn test auc = 0.939861 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978945 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.989516 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.964406 on epoch 17
+Model 0 test auc = 0.968417
+Ensemble test auc = 0.968417
+Overall dmpnn test auc = 0.968417 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981094 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986840 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.960034 on epoch 9
+Model 0 test auc = 0.950300
+Ensemble test auc = 0.950300
+Overall dmpnn test auc = 0.950300 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.983726 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985831 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.962727 on epoch 9
+Model 0 test auc = 0.957363
+Ensemble test auc = 0.957363
+Overall dmpnn test auc = 0.957363 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986007 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987981 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.967762 on epoch 9
+Model 0 test auc = 0.964469
+Ensemble test auc = 0.964469
+Overall dmpnn test auc = 0.964469 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.980919 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985173 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.967585 on epoch 9
+Model 0 test auc = 0.972277
+Ensemble test auc = 0.972277
+Overall dmpnn test auc = 0.972277 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984428 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.988595 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972973 on epoch 15
+Model 0 test auc = 0.981269
+Ensemble test auc = 0.981269
+Overall dmpnn test auc = 0.981269 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978374 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985086 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972973 on epoch 18
+Model 0 test auc = 0.981006
+Ensemble test auc = 0.981006
+Overall dmpnn test auc = 0.981006 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.977541 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.983901 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972973 on epoch 15
+Model 0 test auc = 0.981269
+Ensemble test auc = 0.981269
+Overall dmpnn test auc = 0.981269 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978374 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985086 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.971604 on epoch 17
+Model 0 test auc = 0.980217
+Ensemble test auc = 0.980217
+Overall dmpnn test auc = 0.980217 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.989911 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.984428 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.971560 on epoch 17
+Model 0 test auc = 0.975260
+Ensemble test auc = 0.975260
+Overall dmpnn test auc = 0.975260 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986182 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985371 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.969219 on epoch 23
+Model 0 test auc = 0.976751
+Ensemble test auc = 0.976751
+Overall dmpnn test auc = 0.976751 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982103 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985524 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.975137 on epoch 29
+Model 0 test auc = 0.981182
+Ensemble test auc = 0.981182
+Overall dmpnn test auc = 0.981182 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.985130 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986709 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.974960 on epoch 29
+Model 0 test auc = 0.984472
+Ensemble test auc = 0.984472
+Overall dmpnn test auc = 0.984472 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.981291 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.989209 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976683 on epoch 29
+Model 0 test auc = 0.982892
+Ensemble test auc = 0.982892
+Overall dmpnn test auc = 0.982892 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982849 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.982147 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.978802 on epoch 29
+Model 0 test auc = 0.983989
+Ensemble test auc = 0.983989
+Overall dmpnn test auc = 0.983989 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.985042 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.988420 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.972399 on epoch 34
+Model 0 test auc = 0.980568
+Ensemble test auc = 0.980568
+Overall dmpnn test auc = 0.980568 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.982147 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987411 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.976594 on epoch 39
+Model 0 test auc = 0.983507
+Ensemble test auc = 0.983507
+Overall dmpnn test auc = 0.983507 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986840 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985524 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.977301 on epoch 36
+Model 0 test auc = 0.984559
+Ensemble test auc = 0.984559
+Overall dmpnn test auc = 0.984559 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.987454 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987367 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.979730 on epoch 36
+Model 0 test auc = 0.983419
+Ensemble test auc = 0.983419
+Overall dmpnn test auc = 0.983419 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984121 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986095 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.981673 on epoch 37
+Model 0 test auc = 0.984208
+Ensemble test auc = 0.984208
+Overall dmpnn test auc = 0.984208 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.986621 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.985919 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.979730 on epoch 36
+Model 0 test auc = 0.983419
+Ensemble test auc = 0.983419
+Overall dmpnn test auc = 0.983419 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.984121 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.986095 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.835409 on epoch 0
+Model 0 test auc = 0.851472
+Ensemble test auc = 0.851472
+Overall dmpnn test auc = 0.851472 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.988288 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.991446 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.800521 on epoch 0
+Model 0 test auc = 0.822477
+Ensemble test auc = 0.822477
+Overall dmpnn test auc = 0.822477 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.990701 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.992192 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.800521 on epoch 0
+Model 0 test auc = 0.822477
+Ensemble test auc = 0.822477
+Overall dmpnn test auc = 0.822477 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.990701 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.992192 +/- 0.000000
+Fold 0
+Model 0 best validation auc = 0.765236 on epoch 0
+Model 0 test auc = 0.793876
+Ensemble test auc = 0.793876
+Overall dmpnn test auc = 0.793876 +/- 0.000000
+Overall dmpnn_xgb_test auc = 0.978155 +/- 0.000000
+Overall morgen_test auc = 0.996447 +/- 0.000000
+Overall dmpnn_morgen_test auc = 0.987718 +/- 0.000000
